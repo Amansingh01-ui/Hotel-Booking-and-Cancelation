@@ -1,7 +1,16 @@
 # Hotel-Booking-and-Cancelation
-## Exploratory Data Analysis of Booking and predict Cancelaton of Hotel
-- Exploratory Data Analysis
-- Predict Cancelation
+### Exploratory Data Analysis of Booking and predict Cancelaton of Hotel
+
+#### Topics covered and questions to answer from the data:
+
+- Where do the guests come from?
+- How much do guests pay for a room per night?
+- How does the price per night vary over the year?
+- Which are the most busy month?
+- How long do people stay at the hotels?
+- Bookings by market segment
+- How many bookings were canceled?
+- Which month have the highest number of cancelations?
 
 1. How much does guest pay for a room per night?
 ![price_person](https://user-images.githubusercontent.com/76864608/182549397-f818beb3-5f06-40a9-a079-6ed3a7815cf5.png)
