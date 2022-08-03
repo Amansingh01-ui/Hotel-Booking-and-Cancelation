@@ -9,4 +9,8 @@
 2. How long people stay at the Hotels?
 ![length_of_stay](https://user-images.githubusercontent.com/76864608/182549572-c7d20c28-c358-4228-8391-f66c48453c62.png)
 
-3. 
+3. Booking by Market Segment
+![newplot (1)](https://user-images.githubusercontent.com/76864608/182550140-16872633-a3bd-418c-b4c9-56a8dd73e47c.png)
+
+4. How many Booking were canceled per month
+![Cancelation_month](https://user-images.githubusercontent.com/76864608/182550390-9e231999-22fb-4bbb-9f8c-ee54118355f2.png)
